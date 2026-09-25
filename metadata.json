@@ -1,0 +1,6 @@
+{
+  "name": "Special Question",
+  "description": "A romantic and playful proposal app for Ridi with interactive runaway buttons, floating hearts, and celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
